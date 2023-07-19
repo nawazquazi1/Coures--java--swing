@@ -12,6 +12,7 @@ public class ItemEvent_3 {
         myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         myFrame.setVisible(true);
         myFrame.setResizable(false);
+
     }
 }
 
