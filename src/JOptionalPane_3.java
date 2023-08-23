@@ -9,7 +9,7 @@ public class JOptionalPane_3 {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 200);
 
-        // Create a JPanel
+        // Create a JPan el
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout());
 
